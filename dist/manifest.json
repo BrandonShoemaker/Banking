@@ -35,7 +35,7 @@
   "short_name": "Banking",
   "orientation": "portrait",
   "display": "standalone",
-  "start_url": "../public/index.html",
+  "start_url": "./index.html",
   "description": "An app that allows you to view your deposits and withdrawls through a clean graph.",
   "background_color": "#000000",
   "theme_color": "#ffffff"
