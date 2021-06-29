@@ -1,5 +1,3 @@
-require('jsdelivr');
-
 let transactions = [];
 let myChart;
 
