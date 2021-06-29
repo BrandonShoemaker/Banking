@@ -21,7 +21,7 @@ module.exports = {
             name: "Your Bank Financing",
             short_name: "Banking",
             description: "An app that allows you to view your deposits and withdrawls through a clean graph.",
-            start_url: "../public/index.html",
+            start_url: "./index.html",
             background_color: "#000000",
             theme_color: "#ffffff",
             fingerprints: false,
